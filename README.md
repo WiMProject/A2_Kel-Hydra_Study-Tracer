@@ -55,7 +55,7 @@ Klon repositori:
 
 bash
 
-git clone https://github.com/usernameanda/proyekanda.git
+git clone https://github.com/WiMProject/A2_Kel-Hydra_Study-Tracer.git
 cd proyekanda
 
 Instal dependensi:

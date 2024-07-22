@@ -82,6 +82,7 @@ Daftar/Login:
 Navigasikan ke halaman pendaftaran atau login untuk membuat akun atau masuk.
 
 untuk login menjadi admin.
+
 username : admin
 
 password : admin#1234
@@ -100,7 +101,7 @@ password : 1234
 
 # Halaman Alumni:
 Setelah masuk sebagai alumni maka akan ada navigasi yang dapat mempermudah alumni untuk mengisi kuesioner, lalu jika alumni ingin menghapus jawaban kuesioner sudah ada button yang di sediakan agar alumni bisa mengisi jawabannya lagi.
-# Halaman Alumni:
+# Halaman Kaprodi:
 Setelah masuk sebagai kaprodi maka akan ada navigasi yang dapat mempermudah kaprodi untuk mengisi feedback terhadap kinerja alumni.
 # Halaman Admin:
 Halaman ini menampilkan beberapa menu pilihan diantaranya:

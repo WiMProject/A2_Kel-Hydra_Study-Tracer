@@ -55,8 +55,9 @@ Klon repositori:
 
 bash
 
-git clone https://github.com/WiMProject/A2_Kel-Hydra_Study-Tracer.git
-cd proyekanda
+        git clone https://github.com/WiMProject/A2_Kel-Hydra_Study-Tracer.git
+
+        cd A2_Kel-Hydra_Study-Tracer
 
 Instal dependensi:
 Pastikan Anda telah menginstal PHP dan MySQL di mesin Anda.

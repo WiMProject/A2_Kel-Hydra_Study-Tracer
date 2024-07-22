@@ -2,9 +2,11 @@
 Uas Matakuliah Pemograman Web
 # Tracer Study
 kelompok hydra
--Wildan Miladji
--Muhammad Alif Rizqie
--Thoriq Faraj N
+Wildan Miladji
+
+Muhammad Alif Rizqie
+
+Thoriq Faraj N
 
 Daftar Isi
 Pendahuluan
